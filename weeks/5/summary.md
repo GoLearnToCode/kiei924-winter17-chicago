@@ -1,4 +1,0 @@
-- Homework review
-- Using the command line
-- Fundamentals of the React JavaScript library
-- jQuery vs. React for large-scale front-end applications

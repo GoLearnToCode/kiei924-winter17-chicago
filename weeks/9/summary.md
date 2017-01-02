@@ -1,2 +1,0 @@
-- Understand how server-side technologies (e.g. Ruby on Rails) connect relational (SQL) databases to front-end applications
-- Use open-source JavaScript data visualization tools to build simple charts into web applications

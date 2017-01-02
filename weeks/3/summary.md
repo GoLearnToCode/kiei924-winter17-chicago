@@ -1,6 +1,0 @@
-- Sanity Check
-- Real hosting
-  - Registering a domain
-  - DNS
-- Frontend vs. Backend
-- Introduction to Javascript
